@@ -1,0 +1,6 @@
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\bin\Debug\VigenereChiper.exe.config
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\bin\Debug\VigenereChiper.exe
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\bin\Debug\VigenereChiper.pdb
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\obj\Debug\VigenereChiper.csprojResolveAssemblyReference.cache
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\obj\Debug\VigenereChiper.exe
+C:\Users\sasha\OneDrive\Документи\Visual Studio 2015\Projects\VigenereChiper\VigenereChiper\obj\Debug\VigenereChiper.pdb
